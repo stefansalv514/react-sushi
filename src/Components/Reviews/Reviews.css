@@ -1,0 +1,80 @@
+.reviews {
+    padding-bottom: 90px;
+}
+
+.reviews__title {
+    font-family: LemonTuesday, SansSerif;
+    font-size: 60px;
+    color: #32505a;
+}
+
+.reviews__name {
+    display: flex;
+    justify-content: space-between;
+}
+
+.vk-reviews {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 1px solid #e6e6e6;
+    border-bottom: 1px solid #e6e6e6;
+    margin-top: 80px;
+}
+
+.vk-reviews__user {
+    padding-bottom: 50px;
+    border-bottom: 1px solid #e6e6e6;
+    width: 300px;
+}
+
+.vk-reviews__icon {
+    width: 103px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.vk-reviews__icon_color-blue {
+    color: #bcc9da;
+}
+
+.vk-reviews__name {
+    color: #5e81a7;
+    font-size: 15px;
+    font-family: OpenSans, SansSerif;
+}
+
+.vk-reviews__time-visit {
+    color: #999;
+    font-family: OpenSans, SansSerif;
+    font-size: 13px;
+}
+
+.vk-reviews__text {
+    font-family: OpenSansRegular, SansSerif;
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.vk-reviews__subscribe-btn {
+    background: #5e81a7;
+    border: 1px solid #5e81a7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.vk-reviews__avatar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.vk-reviews__avatar__info {
+    margin-top: 10px;
+}
+
+.vk-reviews__food-photo {
+    margin-top: 15px;
+}

@@ -1,0 +1,39 @@
+.slider-sushi {
+    background: url("./img/slide.jpg") no-repeat center top;
+    height: 675px;
+    width: 100%;
+}
+
+.slider-info {
+    margin-top: 130px;
+}
+
+.slider-info__title {
+    font-size: 110px;
+    font-family: LemonTuesday, SansSerif;
+    color: #84c604;
+}
+
+.slider-info__time {
+    font-size: 26px;
+    font-family: OpenSansRegular, SansSerif;
+    font-style: italic;
+    color: #fff;
+    margin-top: 48px;
+}
+
+.slider-info__btn {
+    margin-top: 60px;
+    font-size: 16px;
+    font-family: OpenSansRegular, SansSerif;
+    color: #fff;
+    text-transform: uppercase;
+    background: #fd4f10;
+    border: 1px solid #fd4f10;
+    border-radius: 7px;
+    padding: 21px 74px;
+}
+
+.qwerty {
+    margin-top: -17px;
+}

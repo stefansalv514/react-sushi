@@ -1,0 +1,14 @@
+@font-face {
+    font-family: OpenSans;
+    src: url(../fonts/OpenSans-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: LemonTuesday;
+    src: url(../fonts/LemonTuesday.ttf);
+}
+
+@font-face {
+    font-family: OpenSansRegular;
+    src: url(../fonts/OpenSansRegular.ttf);
+}

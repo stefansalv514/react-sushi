@@ -1,0 +1,72 @@
+.header {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.dropdown__none {
+    display: none;
+}
+
+.bars__color-green {
+    color: #1fba0a;
+}
+
+.header_border-bottom {
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.header__contacts {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_font-size {
+    font-size: 12px;
+}
+
+.header_mr-top {
+    margin-top: 20px;
+}
+
+.header__callback {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__workday {
+    margin-top: 12px;
+}
+
+.header__phone {
+    font-size: 18px;
+}
+
+.header__worktime {
+    font-size: 10px;
+    margin-top: -20px;
+}
+
+.header_OpenSans-ExtraBold {
+    font-family: OpenSans, SansSerif;
+    font-weight: 800;
+}
+
+.header_OpenSans-regular {
+    font-family: OpenSans, SansSerif;
+}
+
+.header__btn {
+    color: #4cc83b;
+    text-transform: uppercase;
+    font-size: 13px;
+    background: #fff;
+    border: 1px solid #1fba0a;
+    border-radius: 7px;
+    width: 169px;
+    height: 36px;
+    margin-top: 15px;
+}
+
+.lk-icon {
+    display: none;
+}

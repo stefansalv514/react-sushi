@@ -1,0 +1,49 @@
+.form {
+    background: url("img/formback.jpg") no-repeat center top;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.search-form__question {
+    font-size: 16px;
+    color: #fff;
+}
+
+.search-form__title {
+    color: #fff;
+    font-family: LemonTuesday, SansSerif;
+    font-size: 54px;
+}
+
+.search-form__data {
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-form__input {
+    background: none;
+    border: none;
+    border-bottom: 1px solid #d4d4d4;
+    width: 243px;
+    color: #fff;
+}
+
+.search-form__btn {
+    font-family: OpenSans, SansSerif;
+    color: #fff;
+    text-transform: uppercase;
+    background: #fd4f10;
+    border: 1px solid #fd4f10;
+    border-radius: 7px;
+    padding: 19px 51px;
+}
+
+.search-form__personal-info {
+    margin-top: 37px;
+}
+
+.search-form__link-personalinfo {
+    font-family: OpenSansRegular, SansSerif;
+    color: #a2a2aa;
+    font-size: 12px;
+}

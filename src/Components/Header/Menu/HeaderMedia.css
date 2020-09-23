@@ -1,0 +1,39 @@
+@media  only screen and (max-width: 1200px) {
+    .menu {
+        display: none;
+    }
+
+    .header__adress {
+        display: none;
+    }
+
+    .header__mail {
+        display: none;
+    }
+}
+
+
+@media  only screen and (max-width: 991px) {
+    .header__callback {
+        display: none;
+    }
+
+    /*.header__contacts {*/
+    /*    margin: 0 auto;*/
+    /*}*/
+
+    /*.header__logo {*/
+    /*    display: flex;*/
+    /*    justify-content: center;*/
+    /*    margin: 0 auto;*/
+    /*    text-align: center;*/
+    /*}*/
+
+    .dropdown__none {
+        display: block;
+    }
+
+    .lk-icon {
+        display: block;
+    }
+}

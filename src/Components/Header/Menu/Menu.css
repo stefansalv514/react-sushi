@@ -1,0 +1,32 @@
+ul li {
+    list-style-type: none;
+}
+
+.menu__nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__link {
+    color: #000;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.menu__link:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu_link_OpenSans-SemiBold {
+    font-family: OpenSans, SansSerif;
+}
+
+.menu__item {
+    padding: 24px 30px;
+}
+
+.menu__item:hover {
+    background: #84c604;
+}

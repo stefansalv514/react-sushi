@@ -1,0 +1,29 @@
+.resons {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.font-LemonTuesday {
+    font-family: LemonTuesday, SansSerif;
+    font-size: 60px;
+    color: #32505a;
+}
+
+.reasons__list {
+    margin-top: 80px;
+}
+
+.reasons__title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.reasons__item {
+    text-align: center;
+}
+
+.reasons__small-text {
+    font-family: OpenSansRegular, SansSerif;
+    font-size: 16px;
+    margin-top: 30px;
+}

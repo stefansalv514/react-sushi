@@ -1,0 +1,55 @@
+.footer {
+    background: #1a2d34;
+    padding-top: 75px;
+    padding-bottom: 64px;
+}
+
+.food-menu__link {
+    font-size: 14px;
+    color: #fff;
+}
+
+.sets {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sets-price__title {
+    font-size: 14px;
+    color: #fff;
+    margin-left: 40px;
+}
+
+.sets-price__link {
+    font-size: 12px;
+    color: #6b96a5;
+}
+
+.sets_type {
+    margin-top: 22px;
+}
+
+.footer__author {
+    font-size: 12px;
+    color: #6b96a5;
+}
+
+.footer__link {
+    font-size: 12px;
+    color: #6b96a5;
+}
+
+.footer__info {
+    margin-top: 57px;
+}
+
+.footer__socials {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__icon {
+    background: #8d969a;
+    padding: 5px 10px;
+    border-radius: 50%;
+}
